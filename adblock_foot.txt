@@ -1,0 +1,12 @@
+! Title: FONZLIST foot
+! GLOBAL
+##footer
+###footer
+##.footer
+##.footer-container
+##.footer-parent
+
+##.container-footer
+##.global-footer
+##.rj-footer
+##.small-footer

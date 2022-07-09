@@ -1,0 +1,28 @@
+! Title: FONZLIST hide
+! GLOBAL
+! very bork if + more types
+!*3$p,frame,redirect=click2load.html
+
+! SITE
+! myanimelist.net
+##footer
+
+! fandom.com
+##.global-footer
+##.global-navigation
+##.notifications-box
+##.recirculation-prefooter
+
+! hitomi.la
+##.exo-content
+##.exo-ipp
+##.ipprtcnt
+
+! manganato.com mangabat.com
+##.container-silder
+##.container-footer
+##.panel-fb-comment
+##.panel-topview
+
+! old + www reddit.com
+##.footer-parent
